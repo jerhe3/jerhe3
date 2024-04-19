@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, Tailwind CSS, AWS**
 
-- 👨‍💻 All of my projects are available at [jerryhe.dev](jerryhe.dev)
+- 👨‍💻 All of my projects are available at [jerryhe.dev](https://www.jerryhe.dev)
 
 - 📫 How to reach me **jerryhe365@gmail.com**
 
